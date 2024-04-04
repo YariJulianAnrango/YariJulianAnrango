@@ -7,6 +7,6 @@ A passionate MSc AI student from the Netherlands.
 - 🔬 Data analysis
 
 Currently learning:
-- 🎮 (Deep) Reinforcement learning
+- 👁️ Computer vision
 - 📦 Transfer learning
 
