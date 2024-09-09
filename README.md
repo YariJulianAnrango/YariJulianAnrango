@@ -1,6 +1,6 @@
 ### Hi there, I'm Yari Anrango👋 :technologist: 
 
-A passionate MSc AI student from the Netherlands.
+A passionate Data Scientist/AI developer from the Netherlands.
 
 - 🔭 Deep learning
 - 📚 NLP
